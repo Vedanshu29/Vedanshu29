@@ -38,9 +38,20 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li><a href="https://github.com/Vedanshu29/ecommerce-sales-dashboard" target="_blank">Ecommerce Sales Dashboard</a> - A comprehensive dashboard analyzing sales data, tracking KPIs, and visualizing key metrics.</li>
-  <li><a href="https://github.com/Vedanshu29/super-store-dashboard" target="_blank">Super Store Dashboard</a> - Sales analysis by region, product categories, and shipping modes in a dynamic Power BI dashboard.</li>
-  <li><a href="https://github.com/Vedanshu29/coffee-sales-analysis" target="_blank">Coffee Sales Analysis</a> - A detailed analysis of coffee sales data using Excel, with pivot tables and charts.</li>
-  <li><a href="https://github.com/Vedanshu29/clothing-store-sales-analysis" target="_blank">Clothing Store Sales Analysis</a> - Analyzing and reporting sales data with visual insights using Excel.</li>
-  <li><a href="https://github.com/Vedanshu29/sql-projects" target="_blank">SQL Projects</a> - Various SQL queries and database management tasks.</li>
+  <li><strong>Ecommerce Sales Dashboard:</strong> Developed an engaging Power BI dashboard to visualize ecommerce sales data. Incorporated interactive elements such as slicers and filters to enable users to explore sales trends, regional performance, and customer behavior dynamically. Utilized DAX for creating custom metrics and measures, ensuring real-time insights into key performance indicators.</li>
+  <li><strong>Super Store Dashboard:</strong> Created a comprehensive Power BI dashboard analyzing store sales data. Included features like heat maps for regional sales, trend lines for sales performance, and bar charts for top-selling product categories. Leveraged Power BI's drill-down capabilities to allow users to explore data at various levels of granularity.</li>
+  <li><strong>Coffee Sales Analysis:</strong> Analyzed coffee sales data using Excel, applying advanced formulas such as `VLOOKUP`, `INDEX`, `MATCH`, and `SUMIFS` to aggregate and analyze sales data. Created pivot tables and charts to visualize trends, perform sales forecasting, and identify top-selling products and seasonal patterns.</li>
+  <li><strong>Clothing Store Sales Analysis:</strong> Conducted a detailed analysis of clothing store sales data with Excel. Used complex formulas like `IFERROR`, `CONCATENATE`, and `TEXTJOIN` for data cleaning and transformation. Designed dashboards and visualizations to report on sales performance, inventory levels, and customer preferences.</li>
+  <li><strong>Music Store SQL Project:</strong> Designed and queried a database for a music store, focusing on managing sales, inventory, and customer data. Implemented SQL queries for generating sales reports, tracking inventory levels, and analyzing customer buying patterns. Created complex joins and subqueries to provide comprehensive insights into store operations and performance.</li>
+</ul>
+
+<h3 align="left">Soft Skills:</h3>
+<ul>
+  <li><strong>Analytical Thinking:</strong> Ability to interpret and analyze data to derive actionable insights and make informed decisions.</li>
+  <li><strong>Attention to Detail:</strong> Precision in handling data and ensuring accuracy in analysis and reporting.</li>
+  <li><strong>Problem-Solving:</strong> Capacity to identify problems and develop effective solutions using data-driven approaches.</li>
+  <li><strong>Communication:</strong> Skill in presenting data findings clearly and effectively to stakeholders, both verbally and in writing.</li>
+  <li><strong>Collaboration:</strong> Ability to work well with cross-functional teams and contribute to team projects.</li>
+  <li><strong>Time Management:</strong> Efficiently managing time and prioritizing tasks to meet deadlines and handle multiple projects.</li>
+  <li><strong>Curiosity:</strong> A desire to continuously learn and stay updated with industry trends and new tools.</li>
 </ul>
